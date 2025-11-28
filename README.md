@@ -1,2 +1,2 @@
-# Daily--Scribbles
+# Daily-Scribbles
 Blogging Website
